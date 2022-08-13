@@ -1,3 +1,3 @@
-FROM devgeek22/website:tagname
+FROM devgeek22/website
 ADD . /var/www/html
 
