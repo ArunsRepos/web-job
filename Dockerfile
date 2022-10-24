@@ -1,3 +1,2 @@
-FROM arunsrepos/webapp
+FROM ArunsRepos/web-job
 ADD . /var/www/html
-
