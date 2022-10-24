@@ -1,3 +1,3 @@
-FROM devgeek22/website
+FROM arunsrepos/webapp
 ADD . /var/www/html
 
